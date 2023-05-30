@@ -1,0 +1,6 @@
+Calc.csproj
+Form1.cs
+Calc.csproj.AssemblyReference.cache
+DesignTimeResolveAssemblyReferences.cache
+DesignTimeResolveAssemblyReferencesInput.cache
+Step.cs
